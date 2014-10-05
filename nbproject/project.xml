@@ -4,7 +4,11 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <name>sistemadePago</name>
+=======
+            <name>ProyectoSistemadePago</name>
+>>>>>>> origin/master
 =======
             <name>ProyectoSistemadePago</name>
 >>>>>>> origin/master
