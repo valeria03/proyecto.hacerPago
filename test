@@ -1,0 +1,32 @@
+public class Test1 {
+    
+    public void Test(){
+     }
+    public Test1 (){ int y=2;
+    public Test1 (int x) {
+    
+ 
+ 
+ 
+ 
+ 
+ public class Test2 {
+    
+    public Test2 (int x,float y){}
+    public Test2 (float x, int y){}
+    public Test2 (float y, int x){}
+}
+
+
+
+
+
+public class Test3 {
+    
+    iny y ;
+    
+    public Test3 (){y=2;}
+    public Test3 (int x){int x=3;}}
+    public Test3 (int z){int x=3;}
+
+}
