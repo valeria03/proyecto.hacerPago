@@ -1,0 +1,13 @@
+Enter file contents herepackage com.capitulo5.herencia;
+
+/**
+ *
+
+ */
+public class Mamifero extends Animal {
+    
+    public Mamifero(){
+        super(4);
+    }
+    
+}
