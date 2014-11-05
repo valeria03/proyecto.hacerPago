@@ -1,0 +1,24 @@
+
+ * and open the template in the editor.
+ */
+
+package herencia;
+
+/**
+ *
+ * @author SONY
+ */
+public class Herencia {
+
+    public static void main(String[] args) {
+        Mamifero perro=new Mamifero();
+        perro.setNombre("pocke");
+        System.out.println("mi perro se llama:" +perro.getNombre());
+    }
+    
+}
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
